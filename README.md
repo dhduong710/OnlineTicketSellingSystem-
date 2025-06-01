@@ -1,1 +1,1 @@
-# ProjecyOS
+# ProjectOS
